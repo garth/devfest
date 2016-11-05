@@ -30,3 +30,5 @@ Or via a regular domain which has a `DNS TXT` record containing `dnslink=/ipns/Q
 * Namecoin - https://namecoin.org/
 * Syncthing - https://syncthing.net/
 * Twister - http://twister.net.co/
+* Spokes - http://githubengineering.com/building-resilience-in-spokes/
+* GitTorrent - http://gittorrent.org/
